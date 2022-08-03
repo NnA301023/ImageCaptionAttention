@@ -11,3 +11,6 @@ In this project, I implemented an attention network on the CRNN network where CN
 ***
 
 # Sample Result
+Sample 1 | Sample 2 | Sample 3 
+:-------:|:--------:|:--------:
+![](https://github.com/NnA301023/ImageCaptionAttention/blob/main/result/WhatsApp%20Image%202022-08-03%20at%2014.36.17.jpeg) | ![](https://github.com/NnA301023/ImageCaptionAttention/blob/main/result/WhatsApp%20Image%202022-08-03%20at%2014.36.17%20(1).jpeg) | ![](https://github.com/NnA301023/ImageCaptionAttention/blob/main/result/WhatsApp%20Image%202022-08-03%20at%2014.36.17%20(2).jpeg)
